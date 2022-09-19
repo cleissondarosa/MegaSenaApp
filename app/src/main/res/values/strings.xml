@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GanheiNaMega</string>
+    <string name="title">Boa Sorte!</string>
+    <string name="number_hint">Digite um número entre 6 e 15</string>
+    <string name="btn_generator">Gerar números</string>
+    <string name="info">Sempre imaginamos como seria o nosso mundo se a gente ganhasse na Mega Sena, o mundo seria maravilhoso!Então aqui você pode gerar entre 6 e 15 digitos para quem sabe ser contemplado com esse prêmio muito almejado!</string>
+</resources>
